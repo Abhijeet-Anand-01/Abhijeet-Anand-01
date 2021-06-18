@@ -1,43 +1,37 @@
-<h1 align="center">Hello, <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-<p align = "center">
-  <a href="https://www.linkedin.com/in/peeyushgaur/">
-  <img align="center" alt="Abhijeet @LinkedIN" width="22px" src="handles/linkedin.svg" />
-</a>
-  <a href="mailto:abhijeetad500@gmail.com">
-  <img align="center" alt="Abhijeet @Mail" width="22px" src="handles/gmail.svg" />
-</a>
-<a href="https://www.facebook.com/abhijeet.anand.71271">
-  <img align="center" alt="Abhijeet @Facebook" width="22px" src="handles/facebook.svg" />
-</a>
-<a href="https://www.instagram.com/abhijeet__anand_">
-  <img align="center" alt="Abhijeet @Instagram" width="22px" src="handles/instagram.svg" />
-</a>
-<a href="https://www.hackerrank.com/abhijeet_anand_">
-  <img align="center" alt="Abhijeet @Hackerrank" width="22px" src="handles/hackerrank.svg" />
-</a>
-</a>
-<!-- <a href="https://www.codechef.com/users/peeyushgaur">
-  <img align="center" alt="Abhijeet @CodeChef" width="22px" src="handles/codechef.jpeg" />
-</a> -->
-<!-- <a href="https://www.hackerearth.com/@1ds20ai039">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" alt="Abhijeet @hackerearth" width="22px">
-</a> -->
-</p>
+<h1 align="center">Hello, <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+
+  <p align = "center">
+      <a href="https://www.linkedin.com/in/peeyushgaur/">
+      <img align="center" alt="Abhijeet @LinkedIN" width="22px" src="handles/linkedin.svg" />
+    </a>
+      <a href="mailto:abhijeetad500@gmail.com">
+      <img align="center" alt="Abhijeet @Mail" width="22px" src="handles/gmail.svg" />
+    </a>
+    <a href="https://www.facebook.com/abhijeet.anand.71271">
+      <img align="center" alt="Abhijeet @Facebook" width="22px" src="handles/facebook.svg" />
+    </a>
+    <a href="https://www.instagram.com/abhijeet__anand_">
+      <img align="center" alt="Abhijeet @Instagram" width="22px" src="handles/instagram.svg" />
+    </a>
+    <a href="https://www.hackerrank.com/abhijeet_anand_">
+      <img align="center" alt="Abhijeet @Hackerrank" width="22px" src="handles/hackerrank.svg" />
+    </a>
+  </p>
 </h1>
 
 
 
 <p align="center">
   <em>
-    This is ME, <a href="https://Abhijeet-Anand-01.github.io/PeeyushGaur/"><b>Abhijeet Anand</b></a>, B.Tech CSE'24 at <a href="https://www.dsce.edu.in/"> <b>Siksha 'O' Anusandhan University(ITER)</b>, Bhubaneswar</a>. <br>
-    A budding <b>Web Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    This is <a href="https://github.com/Abhijeet-Anand-01"><b>Abhijeet Anand</b></a>, B.Tech CSE'24 at <a href="https://www.soa.ac.in/"> <b>Siksha 'O' Anusandhan University(ITER)</b>, Bhubaneswar</a>. <br>
+    A budding <b>Web Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Open Source Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
   <br>
   <br>
-  <i>I believe in <b><i>POWER OF COMMUNITY</i></b>
+  <i>I believe in <b><i>POWER OF COMMUNITY</i></b> <img src="gif/Handshake.gif" width="30px">
 </p>
  <br />
 
