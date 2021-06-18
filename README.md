@@ -66,18 +66,15 @@
 <i><b>Tools known:</b></i> 
   <br><br>
   <img align="center" src="tools/visualstudio.svg" width="35px" />&nbsp;
-    <img align="center" src="tools/photoshop.svg" width="35px" />&nbsp;
-  <img align="center" src="tools/lightroom.svg" width="35px" />&nbsp;
+  <img align="center" src="tools/photoshop.svg" width="33px" />&nbsp;
+  <img align="center" src="tools/lightroom.svg" width="33px" />&nbsp;
   <img align="center" src="tools/eclipse.svg" width="35px" />&nbsp;
-  <img align="center" src="tools/word.svg" width="35px" />&nbsp;
-  <img align="center" src="tools/excel.svg" width="30px" />&nbsp;
-  <img align="center" src="tools/powerpoint.svg" width="30px" />&nbsp;
-  <img align="center" src="tools/photoshop.svg" width="30px" />&nbsp;
-  <img align="center" src="tools/photoshop.svg" width="30px" />&nbsp;
-  <img align="center" src="tools/lightroom.svg" width="30px" />&nbsp;
-  <img align="center" src="tools/eclipse.svg" width="30px" />&nbsp;
-  <img align="center" src="tools/git.svg" width="30px" />&nbsp;
-  <img align="center" src="tools/github.svg" width="30px" />&nbsp;
+  <img align="center" src="tools/git.svg" width="33px" />&nbsp;
+  <img align="center" src="tools/github.svg" width="33px" />&nbsp;
+  <img align="center" src="tools/word.svg" width="33px" />&nbsp;
+  <img align="center" src="tools/excel.svg" width="33px" />&nbsp;
+  <img align="center" src="tools/powerpoint.svg" width="33px" />&nbsp;
+
 </p>
 
 <hr>
