@@ -1,4 +1,4 @@
-<h1 align="center">Hello, <world<img src="gif/Earth.gif" width="24px">/> <img src="gif/Hi.gif" width="30px">
+<h1 align="center">Hello, &ltworld<img src="gif/Earth.gif" width="24px">/> <img src="gif/Hi.gif" width="30px">
 
   <p align = "center">
       <a href="https://www.linkedin.com/in/abhijeet-anand-666123200/">
@@ -49,14 +49,14 @@
 <p align="center">
 <i><b>Languages Currently Learning:</b></i> 
   <br><br>
-  <img align="center" src="languages/java.svg" width="30px" />&nbsp;
-  <img align="center" src="languages/html5.svg" width="30px" />&nbsp;
-  <img align="center" src="languages/css.svg" width="30px" />&nbsp;
-  <img align="center" src="languages/javascript.svg" width="30px" />&nbsp;
-  <img align="center" src="languages/jquery.svg" width="30px" />&nbsp;
-  <img align="center" src="languages/bootstrap4" width="30px" />&nbsp;
-  <img align="center" src="languages/mysql.svg" width="30px" />&nbsp;
-  <img align="center" src="languages/RegEx.png" width="30px" />&nbsp;
+  <img align="center" src="languages/java.svg" width="42px" />&nbsp;
+  <img align="center" src="languages/html5.svg" width="40px" />&nbsp;
+  <img align="center" src="languages/css3.svg" width="40px" />&nbsp;
+  <img align="center" src="languages/javascript.svg" width="40px" />&nbsp;
+  <img align="center" src="languages/jquery.svg" width="40px" />&nbsp;
+  <img align="center" src="languages/bootstrap4.png" width="40px" />&nbsp;
+  <img align="center" src="languages/mysql.svg" width="45px" />&nbsp;
+  <img align="center" src="languages/regex.png" width="40px" />&nbsp;
   
 </p>
 
