@@ -1,4 +1,4 @@
-<h1 align="center">Hello, <𝚌𝚘𝚍𝚎𝚛𝚜<img src="gif/Earth.gif" width="24px">/> <img src="gif/Hi.gif" width="30px">
+<h1 align="center">Hello, <world<img src="gif/Earth.gif" width="24px">/> <img src="gif/Hi.gif" width="30px">
 
   <p align = "center">
       <a href="https://www.linkedin.com/in/abhijeet-anand-666123200/">
@@ -16,6 +16,9 @@
     <a href="https://www.hackerrank.com/abhijeet_anand_">
       <img align="center" alt="Abhijeet @Hackerrank" width="22px" src="handles/hackerrank.svg" />
     </a>
+    <a href="https://auth.geeksforgeeks.org/user/abhijeetad500/profile">
+      <img align="center" alt="Abhijeet @Geeksforgeeks" width="22px" src="handles/geeksforgeeks.svg" />
+    </a>
   </p>
 </h1>
 
@@ -23,8 +26,8 @@
 
 <p align="center">
   <em>
-    This is <a href="https://github.com/Abhijeet-Anand-01"><b>Abhijeet Anand</b></a>, B.Tech CSE'24 at <a href="https://www.soa.ac.in/"> <b>Siksha 'O' Anusandhan University(ITER)</b>, Bhubaneswar</a>. <br>
-    A budding <b>Web Developer</b> <img src="gif/Developer.gif" width="30px"> and a <b>Open Source Enthusiast</b>&nbsp;<img src="gif/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    This is <a href="https://github.com/Abhijeet-Anand-01"><b>Abhijeet Anand</b></a>, B.Tech CSE'24 from <a href="https://www.soa.ac.in/"> <b>Siksha 'O' Anusandhan University(ITER)</b>, Bhubaneswar</a>. <br>
+    A budding <b>Web Developer</b> <img src="gif/Developer.gif" width="30px"> and an <b>Open Source Enthusiast</b>&nbsp;<img src="gif/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="gif/Rocket.gif" width="18px"> and 
     <b>excel</b> <img src="gif/Medal.gif" width="20px">&nbsp.
@@ -36,11 +39,12 @@
  <br />
 
 &nbsp;***Talking about Personal Stuffs:***<br/>
-🎓 AI&ML Fresher at DSCE, Bangalore<br />
-👁️ Strong in Graphic Design<br />
-🎤 Student Ambassador, proficient in leadership qualities<br />
-🎯 Open source enthusiast and budding web developer<br />
-👨‍💻 Passionate about Artificial Intelligence and Machine Learning<br />
+🎓 B.Tech CSE'24 from ITER, Bhubaneswar<br/>
+<!-- 👁️ Strong in Graphic Design<br/> -->
+<!-- 🎤 Student Ambassador, proficient in leadership qualities<br/> -->
+👨‍💻 A budding web developer<br/>
+🎯 Open source enthusiast<br/>
+
 
 <hr>
 
