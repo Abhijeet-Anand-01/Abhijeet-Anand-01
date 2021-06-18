@@ -1,4 +1,4 @@
-<h1 align="center">Hello, <world <img src="gif/Earth.gif" width="24px">/> <img src="gif/Hi.gif" width="30px">
+<h1 align="center">Hello, <world<img src="gif/Earth.gif" width="24px">/> <img src="gif/Hi.gif" width="30px">
 
   <p align = "center">
       <a href="https://www.linkedin.com/in/abhijeet-anand-666123200/">
@@ -17,7 +17,7 @@
       <img align="center" alt="Abhijeet @Hackerrank" width="22px" src="handles/hackerrank.svg" />
     </a>
     <a href="https://auth.geeksforgeeks.org/user/abhijeetad500/profile">
-      <img align="center" alt="Abhijeet @Geeksforgeeks" width="22px" src="handles/geeksforgeeks.svg" />
+      <img align="center" alt="Abhijeet @Geeksforgeeks" width="25px" src="handles/geeksforgeeks.svg" />
     </a>
   </p>
 </h1>
@@ -40,8 +40,6 @@
 
 &nbsp;***Talking about Personal Stuffs:***<br/>
 🎓 B.Tech CSE'24 from ITER, Bhubaneswar<br/>
-<!-- 👁️ Strong in Graphic Design<br/> -->
-<!-- 🎤 Student Ambassador, proficient in leadership qualities<br/> -->
 👨‍💻 A budding web developer<br/>
 🎯 Open source enthusiast<br/>
 
@@ -51,13 +49,15 @@
 <p align="center">
 <i><b>Languages Currently Learning:</b></i> 
   <br><br>
-  <img align="center" src="languages/c.svg" width="30px" />&nbsp;
-  <img align="center" src="languages/python.svg" width="30px" />&nbsp;
-  <img align="center" src="languages/html-5.svg" width="30px" />&nbsp;
-  <img align="center" src="languages/mysql.svg" width="30px" />&nbsp;
+  <img align="center" src="languages/java.svg" width="30px" />&nbsp;
+  <img align="center" src="languages/html5.svg" width="30px" />&nbsp;
   <img align="center" src="languages/css.svg" width="30px" />&nbsp;
   <img align="center" src="languages/javascript.svg" width="30px" />&nbsp;
-  <img align="center" src="languages/cpp.svg" width="30px" />&nbsp;
+  <img align="center" src="languages/jquery.svg" width="30px" />&nbsp;
+  <img align="center" src="languages/bootstrap4" width="30px" />&nbsp;
+  <img align="center" src="languages/mysql.svg" width="30px" />&nbsp;
+  <img align="center" src="languages/RegEx.png" width="30px" />&nbsp;
+  
 </p>
 
 <hr>
