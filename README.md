@@ -29,7 +29,7 @@
 
 <p align="center">
   <em>
-    This is ME, <a href="https://gaurpeeyush.github.io/PeeyushGaur/"><b>Abhijeet Anand</b></a>, B.Tech CSE'24 at <a href="https://www.dsce.edu.in/"> <b>Siksha 'O' Anusandhan University(ITER)</b>, Bhubaneswar</a>. <br>
+    This is ME, <a href="https://Abhijeet-Anand-01.github.io/PeeyushGaur/"><b>Abhijeet Anand</b></a>, B.Tech CSE'24 at <a href="https://www.dsce.edu.in/"> <b>Siksha 'O' Anusandhan University(ITER)</b>, Bhubaneswar</a>. <br>
     A budding <b>Web Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> and 
@@ -84,17 +84,17 @@
   <br><br>
 
 <p align="center">
-<img src = "https://github-readme-streak-stats.herokuapp.com/?user=GaurPeeyush&theme=radical&hide_border=true" alt="GaurPeeyush" /><br><br>
-<img src = "https://lostgirljourney-on-github.herokuapp.com/graph?username=GaurPeeyush&theme=dracula&bg_color=000000&hide_border=true" alt="GitHub Activity" /><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=GaurPeeyush&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/><br><br>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GaurPeeyush&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=Abhijeet-Anand-01&theme=radical&hide_border=true" alt="Abhijeet-Anand-01" /><br><br>
+<img src = "https://lostgirljourney-on-github.herokuapp.com/graph?username=Abhijeet-Anand-01&theme=dracula&bg_color=000000&hide_border=true" alt="GitHub Activity" /><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Abhijeet-Anand-01&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/><br><br>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeet-Anand-01&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
 </p>
 
 <hr>
 
 <p align="center"> 
   <i><b>Profile Visitor Count...</b></i><br><br>
-  <img src="https://profile-counter.glitch.me/GaurPeeyush/count.svg" /><br>
+  <img src="https://profile-counter.glitch.me/Abhijeet-Anand-01/count.svg" /><br>
   <img src="https://media.giphy.com/media/LYd5EztTPaYQUY3pno/giphy.gif" height="500">
  <!-- <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br> -->
   
