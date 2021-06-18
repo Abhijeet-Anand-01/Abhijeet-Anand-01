@@ -95,7 +95,7 @@
 <p align="center"> 
   <i><b>Profile Visitor Count...</b></i><br><br>
   <img src="https://profile-counter.glitch.me/Abhijeet-Anand-01/count.svg" /><br>
-  <img style="border-radius: 20% 20% 5% 5%;" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" height="500">
+  <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" height="400">
   
 </p>
 
