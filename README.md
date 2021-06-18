@@ -1,27 +1,27 @@
 <h1 align="center">Hello, <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <p align = "center">
   <a href="https://www.linkedin.com/in/peeyushgaur/">
-  <img align="center" alt="Peeyush @LinkedIN" width="22px" src="handles/linkedin.svg" />
+  <img align="center" alt="Abhijeet @LinkedIN" width="22px" src="handles/linkedin.svg" />
 </a>
-  <a href="mailto:MrPeeyushGaur@gmail.com">
-  <img align="center" alt="Peeyush @Mail" width="22px" src="handles/gmail.svg" />
+  <a href="mailto:abhijeetad500@gmail.com">
+  <img align="center" alt="Abhijeet @Mail" width="22px" src="handles/gmail.svg" />
 </a>
-<a href="https://twitter.com/MrPeeyushGaur">
-  <img align="center" alt="Peeyush @Twitter" width="22px" src="handles/twitter.svg" />
+<!-- <a href="https://twitter.com/MrPeeyushGaur">
+  <img align="center" alt="Abhijeet @Twitter" width="22px" src="handles/twitter.svg" />
+</a> -->
+<a href="https://www.instagram.com/abhijeet__anand_">
+  <img align="center" alt="Abhijeet @Instagram" width="22px" src="handles/instagram.svg" />
 </a>
-<a href="https://www.instagram.com/peeyush_gaur">
-  <img align="center" alt="Peeyush @Instagram" width="22px" src="handles/instagram.svg" />
-</a>
-<a href="https://www.hackerrank.com/PeeyushGaur">
-  <img align="center" alt="Peeyush @Hackerrank" width="22px" src="handles/hackerrank.svg" />
+<a href="https://www.hackerrank.com/abhijeet_anand_">
+  <img align="center" alt="Abhijeet @Hackerrank" width="22px" src="handles/hackerrank.svg" />
 </a>
 </a>
-<a href="https://www.codechef.com/users/peeyushgaur">
-  <img align="center" alt="Peeyush @CodeChef" width="22px" src="handles/codechef.jpeg" />
-</a>
-<a href="https://www.hackerearth.com/@1ds20ai039">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" alt="PeeyushGaur @hackerearth" width="22px">
-</a>
+<!-- <a href="https://www.codechef.com/users/peeyushgaur">
+  <img align="center" alt="Abhijeet @CodeChef" width="22px" src="handles/codechef.jpeg" />
+</a> -->
+<!-- <a href="https://www.hackerearth.com/@1ds20ai039">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" alt="Abhijeet @hackerearth" width="22px">
+</a> -->
 </p>
 </h1>
 
@@ -29,7 +29,7 @@
 
 <p align="center">
   <em>
-    This is ME, <a href="https://gaurpeeyush.github.io/PeeyushGaur/"><b>Peeyush Gaur</b></a>, AI & Ml Fresher at<a href="https://www.dsce.edu.in/"> <b>Dayananda Sagar College of Engineering</b>, Bangalore</a>. <br>
+    This is ME, <a href="https://gaurpeeyush.github.io/PeeyushGaur/"><b>Abhijeet Anand</b></a>, B.Tech CSE'24 at <a href="https://www.dsce.edu.in/"> <b>Siksha 'O' Anusandhan University(ITER)</b>, Bhubaneswar</a>. <br>
     A budding <b>Web Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> and 
@@ -102,4 +102,4 @@
 
 <!-- can't stop myself from editing🤷... -->
 
-⭐️ From **Abhijeet Anand** ([@GaurPeeyush](https://github.com/GaurPeeyush))
+⭐️ From **Abhijeet Anand** ([@Abhijeet-Anand-01](https://github.com/Abhijeet-Anand-01))
