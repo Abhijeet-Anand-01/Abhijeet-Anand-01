@@ -1,4 +1,4 @@
-<h1 align="center">Hello, <world<img src="gif/Earth.gif" width="24px">/> <img src="gif/Hi.gif" width="30px">
+<h1 align="center">Hello, <world <img src="gif/Earth.gif" width="24px">/> <img src="gif/Hi.gif" width="30px">
 
   <p align = "center">
       <a href="https://www.linkedin.com/in/abhijeet-anand-666123200/">
