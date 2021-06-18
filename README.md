@@ -95,8 +95,7 @@
 <p align="center"> 
   <i><b>Profile Visitor Count...</b></i><br><br>
   <img src="https://profile-counter.glitch.me/Abhijeet-Anand-01/count.svg" /><br>
-  <!-- <img src="https://media.giphy.com/media/LYd5EztTPaYQUY3pno/giphy.gif" height="500"> -->
- <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br>
+  <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" height="500">
   
 </p>
 
