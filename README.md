@@ -6,9 +6,9 @@
   <a href="mailto:abhijeetad500@gmail.com">
   <img align="center" alt="Abhijeet @Mail" width="22px" src="handles/gmail.svg" />
 </a>
-<!-- <a href="https://twitter.com/MrPeeyushGaur">
-  <img align="center" alt="Abhijeet @Twitter" width="22px" src="handles/twitter.svg" />
-</a> -->
+<a href="https://www.facebook.com/abhijeet.anand.71271">
+  <img align="center" alt="Abhijeet @Facebook" width="22px" src="handles/facebook.svg" />
+</a>
 <a href="https://www.instagram.com/abhijeet__anand_">
   <img align="center" alt="Abhijeet @Instagram" width="22px" src="handles/instagram.svg" />
 </a>
