@@ -49,12 +49,12 @@
 <p align="center">
 <i><b>Languages Currently Learning:</b></i> 
   <br><br>
-  <img align="center" src="languages/java.svg" width="42px" />&nbsp;
+  <img align="center" src="languages/java.svg" width="43px" />&nbsp;
   <img align="center" src="languages/html5.svg" width="40px" />&nbsp;
   <img align="center" src="languages/css3.svg" width="40px" />&nbsp;
   <img align="center" src="languages/javascript.svg" width="40px" />&nbsp;
   <img align="center" src="languages/jquery.svg" width="40px" />&nbsp;
-  <img align="center" src="languages/bootstrap4.png" width="40px" />&nbsp;
+  <img align="center" src="languages/bootstrap.svg" width="40px" />&nbsp;
   <img align="center" src="languages/mysql.svg" width="45px" />&nbsp;
   <img align="center" src="languages/RegEx.png" width="40px" />&nbsp;
   
@@ -65,12 +65,17 @@
 <p align="center">
 <i><b>Tools known:</b></i> 
   <br><br>
-  <img align="center" src="tools/sublime.svg" width="30px" />&nbsp;
-  <img align="center" src="tools/vs-code.png" width="30px" />&nbsp;
-  <img align="center" src="tools/word.svg" width="30px" />&nbsp;
+  <img align="center" src="tools/visualstudio.svg" width="35px" />&nbsp;
+    <img align="center" src="tools/photoshop.svg" width="35px" />&nbsp;
+  <img align="center" src="tools/lightroom.svg" width="35px" />&nbsp;
+  <img align="center" src="tools/eclipse.svg" width="35px" />&nbsp;
+  <img align="center" src="tools/word.svg" width="35px" />&nbsp;
   <img align="center" src="tools/excel.svg" width="30px" />&nbsp;
   <img align="center" src="tools/powerpoint.svg" width="30px" />&nbsp;
-  <img align="center" src="tools/cmd.svg" width="30px" />&nbsp;
+  <img align="center" src="tools/photoshop.svg" width="30px" />&nbsp;
+  <img align="center" src="tools/photoshop.svg" width="30px" />&nbsp;
+  <img align="center" src="tools/lightroom.svg" width="30px" />&nbsp;
+  <img align="center" src="tools/eclipse.svg" width="30px" />&nbsp;
   <img align="center" src="tools/git.svg" width="30px" />&nbsp;
   <img align="center" src="tools/github.svg" width="30px" />&nbsp;
 </p>
@@ -96,7 +101,5 @@
   <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" height="500">
   
 </p>
-
-<!-- can't stop myself from editing🤷... -->
 
 ⭐️ From **Abhijeet Anand** ([@Abhijeet-Anand-01](https://github.com/Abhijeet-Anand-01))
