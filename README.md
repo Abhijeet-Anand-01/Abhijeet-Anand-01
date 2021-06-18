@@ -31,7 +31,7 @@
   </em> 
   <br>
   <br>
-  <i>I believe in <b><i>POWER OF COMMUNITY</i></b> <img src="gif/Handshake.gif" width="30px">
+  <i>I believe in <b><i>POWER OF COMMUNITY </i></b> <img src="gif/Handshake.gif" width="70px">
 </p>
  <br />
 
