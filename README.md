@@ -68,6 +68,7 @@
   <img align="center" src="tools/visualstudio.svg" width="35px" />&nbsp;
   <img align="center" src="tools/photoshop.svg" width="33px" />&nbsp;
   <img align="center" src="tools/lightroom.svg" width="33px" />&nbsp;
+  <img align="center" src="tools/vsdc.png" width="33px" />&nbsp;
   <img align="center" src="tools/eclipse.svg" width="35px" />&nbsp;
   <img align="center" src="tools/git.svg" width="33px" />&nbsp;
   <img align="center" src="tools/github.svg" width="33px" />&nbsp;
