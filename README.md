@@ -96,11 +96,7 @@
 <p align="center"> 
   <i><b>Profile Visitor Count...</b></i><br><br>
   <img src="https://profile-counter.glitch.me/Abhijeet-Anand-01/count.svg" /><br>
-<<<<<<< HEAD
-  <img src="gif/hello.gif" height="500">
-=======
   <img src="gif/hello.gif" height="400">
->>>>>>> 524edda15096020e3c28db539d698dc1e76c937c
   
 </p>
 
