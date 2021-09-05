@@ -1,7 +1,7 @@
 <h1 align="center">Hello, &ltworld<img src="gif/Earth.gif" width="24px">/> <img src="gif/Hi.gif" width="30px">
 
   <p align = "center">
-      <a href="https://abhijeet-anand-01.github.io/Static-HTML-page-design/resume">
+      <a href="https://www.linkedin.com/in/abhijeet-anand-666123200/">
       <img align="center" alt="Abhijeet @LinkedIN" width="22px" src="handles/linkedin.svg" />
     </a>
       <a href="mailto:abhijeetad500@gmail.com">
@@ -23,10 +23,9 @@
 </h1>
 
 
-
 <p align="center">
   <em>
-    This is <a href="https://github.com/Abhijeet-Anand-01"><b>Abhijeet Anand</b></a>, B.Tech CSE'24 from <a href="https://www.soa.ac.in/"> <b>Siksha 'O' Anusandhan University(ITER)</b>, Bhubaneswar</a>. <br>
+    This is <a href="https://abhijeet-anand-01.github.io/Static-HTML-page-design/resume"><b>Abhijeet Anand</b></a>, B.Tech CSE'24 from <a href="https://www.soa.ac.in/"> <b>Siksha 'O' Anusandhan University(ITER)</b>, Bhubaneswar</a>. <br>
     A budding <b>Web Developer</b> <img src="gif/Developer.gif" width="30px"> and an <b>Open Source Enthusiast</b>&nbsp;<img src="gif/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="gif/Rocket.gif" width="18px"> and 
