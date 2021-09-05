@@ -1,7 +1,7 @@
 <h1 align="center">Hello, &ltworld<img src="gif/Earth.gif" width="24px">/> <img src="gif/Hi.gif" width="30px">
 
   <p align = "center">
-      <a href="https://www.linkedin.com/in/abhijeet-anand-666123200/">
+      <a href="https://abhijeet-anand-01.github.io/Static-HTML-page-design/resume">
       <img align="center" alt="Abhijeet @LinkedIN" width="22px" src="handles/linkedin.svg" />
     </a>
       <a href="mailto:abhijeetad500@gmail.com">
