@@ -54,6 +54,7 @@
   <img align="center" src="languages/javascript.svg" width="40px" />&nbsp;
   <img align="center" src="languages/jquery.svg" width="40px" />&nbsp;
   <img align="center" src="languages/bootstrap.svg" width="40px" />&nbsp;
+  <img align="center" src="languages/angular.svg" width="40px" />&nbsp;
   <img align="center" src="languages/mysql.svg" width="45px" />&nbsp;
   <img align="center" src="languages/RegEx.png" width="40px" />&nbsp;
   
