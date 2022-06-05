@@ -1,4 +1,4 @@
-<h1 align="center">Hello, &ltworld<img src="gif/Earth.gif" width="24px">/> <img src="gif/Hi.gif" width="30px">
+<h1 align="center">Hello, &ltworld<img src="gif/Earth.gif" width="24">/> <img src="gif/Hi.gif" width="30">
 
   <p align = "center">
       <a href="https://www.linkedin.com/in/abhijeet-anand-666123200/">
@@ -26,14 +26,14 @@
 <p align="center">
   <em>
     This is <a href="https://abhijeet-anand-01.github.io/Static-HTML-page-design/resume"><b>Abhijeet Anand</b></a>, B.Tech CSE'24 from <a href="https://www.soa.ac.in/"> <b>Siksha 'O' Anusandhan University(ITER)</b>, Bhubaneswar</a>. <br>
-    A budding <b>Web Developer</b> <img src="gif/Developer.gif" width="30px"> and an <b>Open Source Enthusiast</b>&nbsp;<img src="gif/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    A budding <b>Web Developer</b> <img src="gif/Developer.gif" width="30"> and an <b>Open Source Enthusiast</b>&nbsp;<img src="gif/Designer.gif" width="36">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="gif/Rocket.gif" width="18px"> and 
-    <b>excel</b> <img src="gif/Medal.gif" width="20px">&nbsp.
+    <b>grow</b> <img src="gif/Rocket.gif" width="18"> and 
+    <b>excel</b> <img src="gif/Medal.gif" width="20">&nbsp.
   </em> 
   <br>
   <br>
-  <i>I believe in <b><i>POWER OF COMMUNITY</i></b> <img src="gif/Handshake.gif" width="70px">
+  <i>I believe in <b><i>POWER OF COMMUNITY</i></b> <img src="gif/Handshake.gif" width="70">
 </p>
  <br />
 
