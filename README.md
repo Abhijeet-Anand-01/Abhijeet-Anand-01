@@ -13,6 +13,9 @@
     <a href="https://www.instagram.com/abhijeet__anand_">
       <img align="center" alt="Abhijeet @Instagram" width="22px" src="handles/instagram.svg" />
     </a>
+    <a href="https://leetcode.com/abhijeetad500/">
+      <img align="center" alt="Abhijeet @LeetCode" width="22px" src="handles/leetcode.svg" />
+    </a>
     <a href="https://www.hackerrank.com/abhijeet_anand_">
       <img align="center" alt="Abhijeet @Hackerrank" width="22px" src="handles/hackerrank.svg" />
     </a>
